@@ -17,10 +17,10 @@ function calculo() {
     //  }
 
     switch (calcular) {
-        case "c/m":
+        case "cm/m":
             resultado = valor / 100
             break
-        case "m/c":
+        case "m/cm":
             resultado = valor * 100
             break
         case "k/l":
